@@ -18,8 +18,7 @@ Today,
   - Platform as a Service(PaaS)
   - Inftasture as a Service(IaaS)
 - Use cases of Cloud e.g Migrating from on-premise, Traffic bursting, Web hosting etc.
-- I also learnt about Datacenter infrastructure which includes Location, Physical security, Servers and Storage.
-
+- I also learnt about how Datacenter architecture is reflected in the cloud.
 
 ## Day 02 (02-04-2022)
 Today, 
