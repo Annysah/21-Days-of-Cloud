@@ -21,4 +21,3 @@ Today,
 - I also learnt about how Datacenter architecture is reflected in the cloud.
 
 ## Day 02 (03-04-2022)
-Today, 
