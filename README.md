@@ -1,5 +1,5 @@
 # 21-Days-of-Cloud
-I created this repo to document my learning journey and preparation towards my preparation for the AWS Clod Practitioner certification exam over the next 21 days.
+I created this repo to document my learning journey and my preparation for the AWS Clod Practitioner certification exam over the next 21 days.
 
 ## Day 01 (02-04-2022)
 Today, 
@@ -21,3 +21,10 @@ Today,
 - I also learnt about how Datacenter architecture is reflected in the cloud.
 
 ## Day 02 (03-04-2022)
+Today, I started a deep dive into the AWS compute fundamentals. Here I was able to learn about some AWS services and their core components. 
+- Some of the services I learnt were the;
+  - AWS Elastic Compute Cloud called EC2 and a short demo on how an EC2 is created.
+  - AWS Elastic Container Service called the ECS
+  - Amazon Elastic Container Registry (ECR) 
+  - Amazon Elastic Container Service for Kubernetes (EKS)
+  - AWS Elastic Beanstalk and its workflow.
