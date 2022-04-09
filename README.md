@@ -36,3 +36,13 @@ Today, I learnt more about other AWS services and their components:
   - Amazon Lightsail and how it can be configured.
   - What AWS Elastic Load Balancer (ELB) is, the types and how each type can be configured.
   - I also learnt about what server certificates (SSL/TSL) are.
+
+## Day 04 (08-04-2022)
+Took some time off to review the things I had learnt previously.
+Continuing the challenge today, I studied about;
+💢 what EC2 auto scaling is
+💢 it's advantages
+💢 auto scaling components and how they are configured.
+
+## Day 05 (09-04-2022)
+Today, I did an hands-on lab on how to create my very first EC2 instance.
