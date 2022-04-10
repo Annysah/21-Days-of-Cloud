@@ -45,4 +45,7 @@ Continuing the challenge today, I studied about;
 💢 auto scaling components and how they are configured.
 
 ## Day 05 (09-04-2022)
-Today, I did an hands-on lab on how to create my very first EC2 instance.
+Today, I did an hands-on lab on how to create my very first EC2 instance in Linux.
+
+## Day 06 (10-04-2022)
+Today, I did an hands-on lab on how to create an EC2 instance in Windows.
