@@ -49,3 +49,12 @@ Today, I did an hands-on lab on how to create my very first EC2 instance in Linu
 
 ## Day 06 (10-04-2022)
 Today, I did an hands-on lab on how to create an EC2 instance in Windows.
+
+## Day 07 (11-04-2022)
+- I gained a basic understanding of Amazon Simple Storage Service (Amazon S3).
+
+## Day 08 & 09 (12-04-2022 to 13-04-2022)
+I learnt about;
+- The AWS integrated storage which is the EC2 instance storage.
+- An overview of the Amazon Elastic Block Store (EBS).
+- What Amazon Elastic File System (EFS) is and its storage classes options.
